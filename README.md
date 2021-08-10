@@ -14,3 +14,5 @@ When this script runs, you will be asked to -
 
 ### Output:
 Whenever the price goes down you desired price you will recieve a mail which will redirect you to the product page. The mail looks like this -
+
+<img src="Email_Screenshot.jpeg" width = 600>
